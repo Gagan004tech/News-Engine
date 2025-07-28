@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
+
+# Node
+node_modules/
+news-recommendation-ui/node_modules/
+news-recommendation-ui/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# React build
+news-recommendation-ui/.env.local
+news-recommendation-ui/.env.development.local
+news-recommendation-ui/.env.test.local
+news-recommendation-ui/.env.production.local 
